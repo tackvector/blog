@@ -1,0 +1,10 @@
+---
+title: This is a new test.
+date: today
+---
+
+# We did it from scratch because
+...we found an easier way to get setup with tailwindcss and mdsvex
+
+## That said
+...we forgot how some of this is made so we had to go look.
